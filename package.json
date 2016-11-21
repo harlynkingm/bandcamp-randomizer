@@ -1,0 +1,18 @@
+{
+  "name": "bandcamp-randomizer",
+  "version": "1.0.0",
+  "description": "A way to pull a random album from the Bandcamp library",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "Max Harlynking",
+  "license": "ISC",
+  "dependencies": {
+    "bandcamp-scraper": "^1.0.1",
+    "express": "^4.14.0",
+    "http": "0.0.0",
+    "morgan": "^1.7.0",
+    "opn": "^4.0.2"
+  }
+}
